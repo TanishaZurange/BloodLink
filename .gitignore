@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+.vscode/
+.idea/
+build/
+data/
+*.csv
+*.db
+*.sqlite
